@@ -1,5 +1,5 @@
 # pintOS
-- OS Coursework Project [PintOS][pintos].
+- Sogang University OS(CSE4070) Coursework Project [PintOS][pintos].
 
 [pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 - development period : 2017-10 ~ 2017-12
